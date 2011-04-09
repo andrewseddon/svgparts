@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="1052.4" width="744.09" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata7">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g device="MT48H16M16">
+   <text id="refdes" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" font-size="11.25px" font-style="normal" y="40.31216" x="44.998909" font-family="Arial" fill="#000080">IC11</text>
+   <text id="device" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" font-size="11.25px" font-style="normal" y="432.81216" x="206.245" font-family="Arial" fill="#000080">IC_MT48H16M16LFBF</text>
+
+
+   <path id="2" stroke-linejoin="round" d="m43.749 43.75h162.5v362.5h-162.5z" stroke="#00f" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="none"/>
+   
+   
+
+   <g class="pin" id="1">
+     <text id="name" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" font-size="11.25px" font-style="normal" y="65.312157" x="49.998791" font-family="Arial" fill="#004080">BA0</text>
+     <text id="number" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" font-size="11.25px" font-style="normal" y="55.31216" x="19.999516" font-family="Arial" fill="#000000">G7</text>
+
+     <path id="graphics" stroke-linejoin="round" d="m43.749 56.25-3.7499-3.75v7.5z" fill-rule="evenodd" stroke="#f00" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="#f00"/>
+     <path id="graphics" stroke-linejoin="round" d="m43.749 56.25h-37.499" stroke="#f00" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="none"/>
+     <path id="graphics" stroke-linejoin="round" d="m2.4999 52.5h6.2498v6.25h-6.2498z" fill-rule="evenodd" stroke="#808080" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="#fff"/>
+   </g>
+   
+   
+   <path id="10" stroke-linejoin="round" d="m43.749 68.75-3.75-3.75v7.5z" fill-rule="evenodd" stroke="#f00" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="#f00"/>
+   <path id="11" stroke-linejoin="round" d="m43.749 68.75h-37.499" stroke="#f00" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="none"/>
+   <path id="12" stroke-linejoin="round" d="m2.4999 65h6.2498v6.25h-6.2498z" fill-rule="evenodd" stroke="#808080" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="#fff"/>
+   <text id="13" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" font-size="11.25px" font-style="normal" y="77.812157" x="49.998791" font-family="Arial" fill="#004080">BA1</text>
+   <text id="14" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" font-size="11.25px" font-style="normal" y="67.812157" x="19.999516" font-family="Arial" fill="#000000">G8</text>
+   <ellipse id="15" stroke-linejoin="round" d="m 42.498971,93.125 c 0,1.72589 -1.399077,3.125 -3.124925,3.125 -1.725848,0 -3.124924,-1.39911 -3.124924,-3.125 0,-1.72589 1.399076,-3.125 3.124924,-3.125 1.725848,0 3.124925,1.39911 3.124925,3.125 z" fill-rule="evenodd" rx="3.1249" ry="3.125" stroke="#f00" cy="93.125" cx="39.374" stroke-dasharray="none" stroke-linecap="round" stroke-width="1.25px" fill="#fff"/>
+   <path id="16" stroke-linejoin="round" d="m36.249 93.75h-29.999" stroke="#f00" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="none"/>
+   <path id="17" stroke-linejoin="round" d="m2.4999 90h6.2498v6.25h-6.2498z" fill-rule="evenodd" stroke="#808080" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="#fff"/>
+   <text id="18" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" font-size="11.25px" font-style="normal" y="102.81216" x="49.998791" font-family="Arial" fill="#004080">CS#</text>
+   <text id="19" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" font-size="11.25px" font-style="normal" y="92.812157" x="19.999516" font-family="Arial" fill="#000000">G9</text>
+   <ellipse id="20" stroke-linejoin="round" d="m 42.498971,105.625 c 0,1.72589 -1.399077,3.125 -3.124925,3.125 -1.725848,0 -3.124924,-1.39911 -3.124924,-3.125 0,-1.72589 1.399076,-3.125 3.124924,-3.125 1.725848,0 3.124925,1.39911 3.124925,3.125 z" fill-rule="evenodd" rx="3.1249" ry="3.125" stroke="#f00" cy="105.62" cx="39.374" stroke-dasharray="none" stroke-linecap="round" stroke-width="1.25px" fill="#fff"/>
+   <path id="21" stroke-linejoin="round" d="m36.249 106.25h-29.999" stroke="#f00" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="none"/>
+   <path id="22" stroke-linejoin="round" d="m2.4999 102.5h6.2498v6.25h-6.2498z" fill-rule="evenodd" stroke="#808080" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="#fff"/>
+   <text id="23" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" font-size="11.25px" font-style="normal" y="115.31216" x="49.998791" font-family="Arial" fill="#004080">CAS#</text>
+   <text id="24" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" font-size="11.25px" font-style="normal" y="105.31216" x="21.249485" font-family="Arial" fill="#000000">F7</text>
+   <ellipse id="25" stroke-linejoin="round" d="m 42.498971,118.125 c 0,1.72589 -1.399077,3.125 -3.124925,3.125 -1.725848,0 -3.124924,-1.39911 -3.124924,-3.125 0,-1.72589 1.399076,-3.125 3.124924,-3.125 1.725848,0 3.124925,1.39911 3.124925,3.125 z" fill-rule="evenodd" rx="3.1249" ry="3.125" stroke="#f00" cy="118.12" cx="39.374" stroke-dasharray="none" stroke-linecap="round" stroke-width="1.25px" fill="#fff"/>
+   <path id="26" stroke-linejoin="round" d="m36.249 118.75h-29.999" stroke="#f00" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="none"/>
+   <path id="27" stroke-linejoin="round" d="m2.4999 115h6.2498v6.25h-6.2498z" fill-rule="evenodd" stroke="#808080" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="#fff"/>
+   <text id="28" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" font-size="11.25px" font-style="normal" y="127.81216" x="49.998791" font-family="Arial" fill="#004080">RAS#</text>
+   <text id="29" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" font-size="11.25px" font-style="normal" y="117.81216" x="21.249485" font-family="Arial" fill="#000000">F8</text>
+   <ellipse id="30" stroke-linejoin="round" d="m 42.498971,130.625 c 0,1.72589 -1.399077,3.125 -3.124925,3.125 -1.725848,0 -3.124924,-1.39911 -3.124924,-3.125 0,-1.72589 1.399076,-3.125 3.124924,-3.125 1.725848,0 3.124925,1.39911 3.124925,3.125 z" fill-rule="evenodd" rx="3.1249" ry="3.125" stroke="#f00" cy="130.62" cx="39.374" stroke-dasharray="none" stroke-linecap="round" stroke-width="1.25px" fill="#fff"/>
+   <path id="31" stroke-linejoin="round" d="m36.249 131.25h-29.999" stroke="#f00" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="none"/>
+   <path id="32" stroke-linejoin="round" d="m2.4999 127.5h6.2498v6.25h-6.2498z" fill-rule="evenodd" stroke="#808080" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="#fff"/>
+   <text id="33" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" font-size="11.25px" font-style="normal" y="140.31216" x="49.998791" font-family="Arial" fill="#004080">WE#</text>
+   <text id="34" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" font-size="11.25px" font-style="normal" y="130.31216" x="21.249485" font-family="Arial" fill="#000000">F9</text>
+   <path id="35" stroke-linejoin="round" d="m43.749 156.25-3.7499-3.75v7.5z" fill-rule="evenodd" stroke="#f00" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="#f00"/>
+   <path id="36" stroke-linejoin="round" d="m43.749 156.25h-37.499" stroke="#f00" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="none"/>
+   <path id="37" stroke-linejoin="round" d="m2.4999 152.5h6.2498v6.25h-6.2498z" fill-rule="evenodd" stroke="#808080" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="#fff"/>
+   <text id="38" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" font-size="11.25px" font-style="normal" y="165.31216" x="49.998791" font-family="Arial" fill="#004080">LDQM</text>
+   <text id="39" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" font-size="11.25px" font-style="normal" y="155.31216" x="21.249485" font-family="Arial" fill="#000000">E8</text>
+   <path id="40" stroke-linejoin="round" d="m43.749 168.75-3.7499-3.75v7.5z" fill-rule="evenodd" stroke="#f00" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="#f00"/>
+   <path id="41" stroke-linejoin="round" d="m43.749 168.75h-37.499" stroke="#f00" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="none"/>
+   <path id="42" stroke-linejoin="round" d="m2.4999 165h6.2498v6.25h-6.2498z" fill-rule="evenodd" stroke="#808080" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="#fff"/>
+   <text id="43" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" font-size="11.25px" font-style="normal" y="177.81216" x="49.998791" font-family="Arial" fill="#004080">UDQM</text>
+   <text id="44" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" font-size="11.25px" font-style="normal" y="167.81216" x="21.249485" font-family="Arial" fill="#000000">F1</text>
+   <path id="45" stroke-linejoin="round" d="m43.749 177.5 3.7499 3.75" stroke="#f00" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="none"/>
+   <path id="46" stroke-linejoin="round" d="m47.499 181.25-3.7499 3.75" stroke="#f00" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="none"/>
+   <path id="47" stroke-linejoin="round" d="m43.749 181.25h-37.499" stroke="#f00" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="none"/>
+   <path id="48" stroke-linejoin="round" d="m2.4999 177.5h6.2498v6.25h-6.2498z" fill-rule="evenodd" stroke="#808080" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="#fff"/>
+   <text id="49" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" font-size="11.25px" font-style="normal" y="190.31216" x="49.998791" font-family="Arial" fill="#004080">CLK</text>
+   <text id="50" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" font-size="11.25px" font-style="normal" y="180.31216" x="21.249485" font-family="Arial" fill="#000000">F2</text>
+   <path id="51" stroke-linejoin="round" d="m43.749 193.75-3.7499-3.75v7.5z" fill-rule="evenodd" stroke="#f00" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="#f00"/>
+   <path id="52" stroke-linejoin="round" d="m43.749 193.75h-37.499" stroke="#f00" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="none"/>
+   <path id="53" stroke-linejoin="round" d="m2.4999 190h6.2498v6.25h-6.2498z" fill-rule="evenodd" stroke="#808080" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="#fff"/>
+   <text id="54" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" font-size="11.25px" font-style="normal" y="202.81216" x="49.998791" font-family="Arial" fill="#004080">CKE</text>
+   <text id="55" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" font-size="11.25px" font-style="normal" y="192.81216" x="21.249485" font-family="Arial" fill="#000000">F3</text>
+   <path id="56" stroke-linejoin="round" d="m43.749 218.75-3.7499-3.75v7.5z" fill-rule="evenodd" stroke="#f00" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="#f00"/>
+   <path id="57" stroke-linejoin="round" d="m43.749 218.75h-37.499" stroke="#f00" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="none"/>
+   <path id="58" stroke-linejoin="round" d="m2.4999 215h6.2498v6.25h-6.2498z" fill-rule="evenodd" stroke="#808080" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="#fff"/>
+   <text id="59" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" font-size="11.25px" font-style="normal" y="227.81216" x="49.998791" font-family="Arial" fill="#004080">A0</text>
+   <text id="60" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" font-size="11.25px" font-style="normal" y="217.81216" x="19.999516" font-family="Arial" fill="#000000">H7</text>
+   <path id="61" stroke-linejoin="round" d="m43.749 231.25-3.7499-3.75v7.5z" fill-rule="evenodd" stroke="#f00" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="#f00"/>
+   <path id="62" stroke-linejoin="round" d="m43.749 231.25h-37.499" stroke="#f00" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="none"/>
+   <path id="63" stroke-linejoin="round" d="m2.4999 227.5h6.2498v6.25h-6.2498z" fill-rule="evenodd" stroke="#808080" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="#fff"/>
+   <text id="64" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" font-size="11.25px" font-style="normal" y="240.31216" x="49.998791" font-family="Arial" fill="#004080">A1</text>
+   <text id="65" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" font-size="11.25px" font-style="normal" y="230.31216" x="19.999516" font-family="Arial" fill="#000000">H8</text>
+   <path id="66" stroke-linejoin="round" d="m43.749 243.75-3.7499-3.75v7.5z" fill-rule="evenodd" stroke="#f00" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="#f00"/>
+   <path id="67" stroke-linejoin="round" d="m43.749 243.75h-37.499" stroke="#f00" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="none"/>
+   <path id="68" stroke-linejoin="round" d="m2.4999 240h6.2498v6.25h-6.2498z" fill-rule="evenodd" stroke="#808080" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="#fff"/>
+   <text id="69" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" font-size="11.25px" font-style="normal" y="252.81216" x="49.998791" font-family="Arial" fill="#004080">A2</text>
+   <text id="70" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" font-size="11.25px" font-style="normal" y="242.81216" x="22.499454" font-family="Arial" fill="#000000">J8</text>
+   <path id="71" stroke-linejoin="round" d="m43.749 256.25-3.7499-3.75v7.5z" fill-rule="evenodd" stroke="#f00" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="#f00"/>
+   <path id="72" stroke-linejoin="round" d="m43.749 256.25h-37.499" stroke="#f00" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="none"/>
+   <path id="73" stroke-linejoin="round" d="m2.4999 252.5h6.2498v6.25h-6.2498z" fill-rule="evenodd" stroke="#808080" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="#fff"/>
+   <text id="74" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" font-size="11.25px" font-style="normal" y="265.31216" x="49.998791" font-family="Arial" fill="#004080">A3</text>
+   <text id="75" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" font-size="11.25px" font-style="normal" y="255.31216" x="22.499454" font-family="Arial" fill="#000000">J7</text>
+   <path id="76" stroke-linejoin="round" d="m43.749 268.75-3.7499-3.75v7.5z" fill-rule="evenodd" stroke="#f00" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="#f00"/>
+   <path id="77" stroke-linejoin="round" d="m43.749 268.75h-37.499" stroke="#f00" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="none"/>
+   <path id="78" stroke-linejoin="round" d="m2.4999 265h6.2498v6.25h-6.2498z" fill-rule="evenodd" stroke="#808080" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="#fff"/>
+   <text id="79" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" font-size="11.25px" font-style="normal" y="277.81216" x="49.998791" font-family="Arial" fill="#004080">A4</text>
+   <text id="80" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" font-size="11.25px" font-style="normal" y="267.81216" x="22.499454" font-family="Arial" fill="#000000">J3</text>
+   <path id="81" stroke-linejoin="round" d="m43.749 281.25-3.7499-3.75v7.5z" fill-rule="evenodd" stroke="#f00" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="#f00"/>
+   <path id="82" stroke-linejoin="round" d="m43.749 281.25h-37.499" stroke="#f00" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="none"/>
+   <path id="83" stroke-linejoin="round" d="m2.4999 277.5h6.2498v6.25h-6.2498z" fill-rule="evenodd" stroke="#808080" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="#fff"/>
+   <text id="84" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" font-size="11.25px" font-style="normal" y="290.31216" x="49.998791" font-family="Arial" fill="#004080">A5</text>
+   <text id="85" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" font-size="11.25px" font-style="normal" y="280.31216" x="22.499454" font-family="Arial" fill="#000000">J2</text>
+   <path id="86" stroke-linejoin="round" d="m43.749 293.75-3.7499-3.75v7.5z" fill-rule="evenodd" stroke="#f00" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="#f00"/>
+   <path id="87" stroke-linejoin="round" d="m43.749 293.75h-37.499" stroke="#f00" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="none"/>
+   <path id="88" stroke-linejoin="round" d="m2.4999 290h6.2498v6.25h-6.2498z" fill-rule="evenodd" stroke="#808080" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="#fff"/>
+   <text id="89" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" font-size="11.25px" font-style="normal" y="302.81216" x="49.998791" font-family="Arial" fill="#004080">A6</text>
+   <text id="90" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" font-size="11.25px" font-style="normal" y="292.81216" x="19.999516" font-family="Arial" fill="#000000">H3</text>
+   <path id="91" stroke-linejoin="round" d="m43.749 306.25-3.7499-3.75v7.5z" fill-rule="evenodd" stroke="#f00" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="#f00"/>
+   <path id="92" stroke-linejoin="round" d="m43.749 306.25h-37.499" stroke="#f00" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="none"/>
+   <path id="93" stroke-linejoin="round" d="m2.4999 302.5h6.2498v6.25h-6.2498z" fill-rule="evenodd" stroke="#808080" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="#fff"/>
+   <text id="94" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" font-size="11.25px" font-style="normal" y="315.31216" x="49.998791" font-family="Arial" fill="#004080">A7</text>
+   <text id="95" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" font-size="11.25px" font-style="normal" y="305.31216" x="19.999516" font-family="Arial" fill="#000000">H2</text>
+   <path id="96" stroke-linejoin="round" d="m43.749 318.75-3.7499-3.75v7.5z" fill-rule="evenodd" stroke="#f00" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="#f00"/>
+   <path id="97" stroke-linejoin="round" d="m43.749 318.75h-37.499" stroke="#f00" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="none"/>
+   <path id="98" stroke-linejoin="round" d="m2.4999 315h6.2498v6.25h-6.2498z" fill-rule="evenodd" stroke="#808080" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="#fff"/>
+   <text id="99" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" font-size="11.25px" font-style="normal" y="327.81216" x="49.998791" font-family="Arial" fill="#004080">A8</text>
+   <text id="100" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" font-size="11.25px" font-style="normal" y="317.81216" x="19.999516" font-family="Arial" fill="#000000">H1</text>
+   <path id="101" stroke-linejoin="round" d="m43.749 331.25-3.7499-3.75v7.5z" fill-rule="evenodd" stroke="#f00" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="#f00"/>
+   <path id="102" stroke-linejoin="round" d="m43.749 331.25h-37.499" stroke="#f00" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="none"/>
+   <path id="103" stroke-linejoin="round" d="m2.4999 327.5h6.2498v6.25h-6.2498z" fill-rule="evenodd" stroke="#808080" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="#fff"/>
+   <text id="104" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" font-size="11.25px" font-style="normal" y="340.31216" x="49.998791" font-family="Arial" fill="#004080">A9</text>
+   <text id="105" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" font-size="11.25px" font-style="normal" y="330.31216" x="19.999516" font-family="Arial" fill="#000000">G3</text>
+   <path id="106" stroke-linejoin="round" d="m43.749 343.75-3.7499-3.75v7.5z" fill-rule="evenodd" stroke="#f00" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="#f00"/>
+   <path id="107" stroke-linejoin="round" d="m43.749 343.75h-37.499" stroke="#f00" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="none"/>
+   <path id="108" stroke-linejoin="round" d="m2.4999 340h6.2498v6.25h-6.2498z" fill-rule="evenodd" stroke="#808080" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="#fff"/>
+   <text id="109" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" font-size="11.25px" font-style="normal" y="352.81216" x="49.998791" font-family="Arial" fill="#004080">A10</text>
+   <text id="110" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" font-size="11.25px" font-style="normal" y="342.81216" x="19.999516" font-family="Arial" fill="#000000">H9</text>
+   <path id="111" stroke-linejoin="round" d="m43.749 356.25-3.7499-3.75v7.5z" fill-rule="evenodd" stroke="#f00" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="#f00"/>
+   <path id="112" stroke-linejoin="round" d="m43.749 356.25h-37.499" stroke="#f00" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="none"/>
+   <path id="113" stroke-linejoin="round" d="m2.4999 352.5h6.2498v6.25h-6.2498z" fill-rule="evenodd" stroke="#808080" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="#fff"/>
+   <text id="114" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" font-size="11.25px" font-style="normal" y="365.31216" x="49.998791" font-family="Arial" fill="#004080">A11</text>
+   <text id="115" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" font-size="11.25px" font-style="normal" y="355.31216" x="19.999516" font-family="Arial" fill="#000000">G2</text>
+   <path id="116" stroke-linejoin="round" d="m43.749 368.75-3.7499-3.75v7.5z" fill-rule="evenodd" stroke="#f00" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="#f00"/>
+   <path id="117" stroke-linejoin="round" d="m43.749 368.75h-37.499" stroke="#f00" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="none"/>
+   <path id="118" stroke-linejoin="round" d="m2.4999 365h6.2498v6.25h-6.2498z" fill-rule="evenodd" stroke="#808080" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="#fff"/>
+   <text id="119" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" font-size="11.25px" font-style="normal" y="377.81216" x="49.998791" font-family="Arial" fill="#004080">A12</text>
+   <text id="120" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" font-size="11.25px" font-style="normal" y="367.81216" x="19.999516" font-family="Arial" fill="#000000">G1</text>
+   <path id="121" stroke-linejoin="round" d="m43.749 381.25h-37.499" stroke="#f00" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="none"/>
+   <path id="122" stroke-linejoin="round" d="m2.4999 377.5h6.2498v6.25h-6.2498z" fill-rule="evenodd" stroke="#808080" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="#fff"/>
+   <text id="123" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" font-size="11.25px" font-style="normal" y="390.31216" x="49.998791" font-family="Arial" fill="#004080">DNU</text>
+   <text id="124" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" font-size="11.25px" font-style="normal" y="380.31216" x="21.249485" font-family="Arial" fill="#000000">E2</text>
+   <path id="125" stroke-linejoin="round" d="m93.748 406.25v37.5" stroke="#f00" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="none"/>
+   <text id="126" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" transform="matrix(0 -1 1 0 -325.31 502.81)" font-style="normal" font-size="11.25px" y="414.06216" x="88.747849" font-family="Arial" fill="#004080">VSS</text>
+   <text id="127" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" transform="matrix(0 -1 1 0 -364.06 521.56)" font-style="normal" font-size="11.25px" y="442.81216" x="78.748093" font-family="Arial" fill="#000000">A1</text>
+   <path id="128" stroke-linejoin="round" d="m106.25 406.25v37.5" stroke="#f00" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="none"/>
+   <text id="129" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" transform="matrix(0 -1 1 0 -312.81 515.31)" font-style="normal" font-size="11.25px" y="414.06216" x="101.24755" font-family="Arial" fill="#004080">VSS</text>
+   <text id="130" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" transform="matrix(0 -1 1 0 -350.31 532.81)" font-style="normal" font-size="11.25px" y="441.56216" x="91.247787" font-family="Arial" fill="#000000">J1</text>
+   <path id="131" stroke-linejoin="round" d="m118.75 406.25v37.5" stroke="#f00" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="none"/>
+   <text id="132" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" transform="matrix(0 -1 1 0 -300.31 527.81)" font-style="normal" font-size="11.25px" y="414.06216" x="113.74724" font-family="Arial" fill="#004080">VSS</text>
+   <text id="133" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" transform="matrix(0 -1 1 0 -339.06 546.56)" font-style="normal" font-size="11.25px" y="442.81216" x="103.74749" font-family="Arial" fill="#000000">E3</text>
+   <path id="134" stroke-linejoin="round" d="m143.75 406.25v37.5" stroke="#f00" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="none"/>
+   <text id="135" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" transform="matrix(0 -1 1 0 -275.32 552.81)" font-style="normal" font-size="11.25px" y="414.06216" x="138.74664" font-family="Arial" fill="#004080">VSSQ</text>
+   <text id="136" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" transform="matrix(0 -1 1 0 -314.07 571.56)" font-style="normal" font-size="11.25px" y="442.81216" x="128.74689" font-family="Arial" fill="#000000">A3</text>
+   <path id="137" stroke-linejoin="round" d="m156.25 406.25v37.5" stroke="#f00" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="none"/>
+   <text id="138" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" transform="matrix(0 -1 1 0 -262.82 565.31)" font-style="normal" font-size="11.25px" y="414.06216" x="151.24634" font-family="Arial" fill="#004080">VSSQ</text>
+   <text id="139" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" transform="matrix(0 -1 1 0 -301.57 584.06)" font-style="normal" font-size="11.25px" y="442.81216" x="141.24658" font-family="Arial" fill="#000000">B7</text>
+   <path id="140" stroke-linejoin="round" d="m168.75 406.25v37.5" stroke="#f00" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="none"/>
+   <text id="141" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" transform="matrix(0 -1 1 0 -250.32 577.81)" font-style="normal" font-size="11.25px" y="414.06216" x="163.74603" font-family="Arial" fill="#004080">VSSQ</text>
+   <text id="142" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" transform="matrix(0 -1 1 0 -290.32 597.81)" font-style="normal" font-size="11.25px" y="444.06216" x="153.74628" font-family="Arial" fill="#000000">C3</text>
+   <path id="143" stroke-linejoin="round" d="m181.25 406.25v37.5" stroke="#f00" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="none"/>
+   <text id="144" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" transform="matrix(0 -1 1 0 -237.82 590.31)" font-style="normal" font-size="11.25px" y="414.06216" x="176.24573" font-family="Arial" fill="#004080">VSSQ</text>
+   <text id="145" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" transform="matrix(0 -1 1 0 -277.82 610.31)" font-style="normal" font-size="11.25px" y="444.06216" x="166.24597" font-family="Arial" fill="#000000">D7</text>
+   <path id="146" stroke-linejoin="round" d="m206.24 143.75h37.499" stroke="#f00" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="none"/>
+   <path id="147" stroke-linejoin="round" d="m239.99 140h6.2498v6.25h-6.2498z" fill-rule="evenodd" stroke="#808080" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="#fff"/>
+   <text id="148" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" font-size="11.25px" font-style="normal" y="152.81216" x="176.24573" font-family="Arial" fill="#004080">DQ0</text>
+   <text id="149" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" font-size="11.25px" font-style="normal" y="142.81216" x="214.9948" font-family="Arial" fill="#000000">A8</text>
+   <path id="150" stroke-linejoin="round" d="m206.24 156.25h37.499" stroke="#f00" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="none"/>
+   <path id="151" stroke-linejoin="round" d="m239.99 152.5h6.2498v6.25h-6.2498z" fill-rule="evenodd" stroke="#808080" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="#fff"/>
+   <text id="152" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" font-size="11.25px" font-style="normal" y="165.31216" x="176.24573" font-family="Arial" fill="#004080">DQ1</text>
+   <text id="153" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" font-size="11.25px" font-style="normal" y="155.31216" x="214.9948" font-family="Arial" fill="#000000">B9</text>
+   <path id="154" stroke-linejoin="round" d="m206.24 168.75h37.499" stroke="#f00" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="none"/>
+   <path id="155" stroke-linejoin="round" d="m239.99 165h6.2498v6.25h-6.2498z" fill-rule="evenodd" stroke="#808080" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="#fff"/>
+   <text id="156" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" font-size="11.25px" font-style="normal" y="177.81216" x="176.24573" font-family="Arial" fill="#004080">DQ2</text>
+   <text id="157" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" font-size="11.25px" font-style="normal" y="167.81216" x="214.9948" font-family="Arial" fill="#000000">B8</text>
+   <path id="158" stroke-linejoin="round" d="m206.24 181.25h37.499" stroke="#f00" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="none"/>
+   <path id="159" stroke-linejoin="round" d="m239.99 177.5h6.2498v6.25h-6.2498z" fill-rule="evenodd" stroke="#808080" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="#fff"/>
+   <text id="160" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" font-size="11.25px" font-style="normal" y="190.31216" x="176.24573" font-family="Arial" fill="#004080">DQ3</text>
+   <text id="161" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" font-size="11.25px" font-style="normal" y="180.31216" x="214.9948" font-family="Arial" fill="#000000">C9</text>
+   <path id="162" stroke-linejoin="round" d="m206.24 193.75h37.499" stroke="#f00" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="none"/>
+   <path id="163" stroke-linejoin="round" d="m239.99 190h6.2498v6.25h-6.2498z" fill-rule="evenodd" stroke="#808080" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="#fff"/>
+   <text id="164" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" font-size="11.25px" font-style="normal" y="202.81216" x="176.24573" font-family="Arial" fill="#004080">DQ4</text>
+   <text id="165" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" font-size="11.25px" font-style="normal" y="192.81216" x="214.9948" font-family="Arial" fill="#000000">C8</text>
+   <path id="166" stroke-linejoin="round" d="m206.24 206.25h37.499" stroke="#f00" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="none"/>
+   <path id="167" stroke-linejoin="round" d="m239.99 202.5h6.2498v6.25h-6.2498z" fill-rule="evenodd" stroke="#808080" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="#fff"/>
+   <text id="168" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" font-size="11.25px" font-style="normal" y="215.31216" x="176.24573" font-family="Arial" fill="#004080">DQ5</text>
+   <text id="169" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" font-size="11.25px" font-style="normal" y="205.31216" x="214.9948" font-family="Arial" fill="#000000">D9</text>
+   <path id="170" stroke-linejoin="round" d="m206.24 218.75h37.499" stroke="#f00" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="none"/>
+   <path id="171" stroke-linejoin="round" d="m239.99 215h6.2498v6.25h-6.2498z" fill-rule="evenodd" stroke="#808080" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="#fff"/>
+   <text id="172" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" font-size="11.25px" font-style="normal" y="227.81216" x="176.24573" font-family="Arial" fill="#004080">DQ6</text>
+   <text id="173" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" font-size="11.25px" font-style="normal" y="217.81216" x="214.9948" font-family="Arial" fill="#000000">D8</text>
+   <path id="174" stroke-linejoin="round" d="m206.24 231.25h37.499" stroke="#f00" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="none"/>
+   <path id="175" stroke-linejoin="round" d="m239.99 227.5h6.2498v6.25h-6.2498z" fill-rule="evenodd" stroke="#808080" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="#fff"/>
+   <text id="176" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" font-size="11.25px" font-style="normal" y="240.31216" x="176.24573" font-family="Arial" fill="#004080">DQ7</text>
+   <text id="177" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" font-size="11.25px" font-style="normal" y="230.31216" x="214.9948" font-family="Arial" fill="#000000">E9</text>
+   <path id="178" stroke-linejoin="round" d="m206.24 243.75h37.499" stroke="#f00" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="none"/>
+   <path id="179" stroke-linejoin="round" d="m239.99 240h6.2498v6.25h-6.2498z" fill-rule="evenodd" stroke="#808080" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="#fff"/>
+   <text id="180" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" font-size="11.25px" font-style="normal" y="252.81216" x="176.24573" font-family="Arial" fill="#004080">DQ8</text>
+   <text id="181" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" font-size="11.25px" font-style="normal" y="242.81216" x="214.9948" font-family="Arial" fill="#000000">E1</text>
+   <path id="182" stroke-linejoin="round" d="m206.24 256.25h37.499" stroke="#f00" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="none"/>
+   <path id="183" stroke-linejoin="round" d="m239.99 252.5h6.2498v6.25h-6.2498z" fill-rule="evenodd" stroke="#808080" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="#fff"/>
+   <text id="184" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" font-size="11.25px" font-style="normal" y="265.31216" x="176.24573" font-family="Arial" fill="#004080">DQ9</text>
+   <text id="185" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" font-size="11.25px" font-style="normal" y="255.31216" x="214.9948" font-family="Arial" fill="#000000">D2</text>
+   <path id="186" stroke-linejoin="round" d="m206.24 268.75h37.499" stroke="#f00" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="none"/>
+   <path id="187" stroke-linejoin="round" d="m239.99 265h6.2498v6.25h-6.2498z" fill-rule="evenodd" stroke="#808080" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="#fff"/>
+   <text id="188" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" font-size="11.25px" font-style="normal" y="277.81216" x="169.99588" font-family="Arial" fill="#004080">DQ10</text>
+   <text id="189" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" font-size="11.25px" font-style="normal" y="267.81216" x="214.9948" font-family="Arial" fill="#000000">D1</text>
+   <path id="190" stroke-linejoin="round" d="m206.24 281.25h37.499" stroke="#f00" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="none"/>
+   <path id="191" stroke-linejoin="round" d="m239.99 277.5h6.2498v6.25h-6.2498z" fill-rule="evenodd" stroke="#808080" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="#fff"/>
+   <text id="192" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" font-size="11.25px" font-style="normal" y="290.31216" x="169.99588" font-family="Arial" fill="#004080">DQ11</text>
+   <text id="193" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" font-size="11.25px" font-style="normal" y="280.31216" x="214.9948" font-family="Arial" fill="#000000">C2</text>
+   <path id="194" stroke-linejoin="round" d="m206.24 293.75h37.499" stroke="#f00" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="none"/>
+   <path id="195" stroke-linejoin="round" d="m239.99 290h6.2498v6.25h-6.2498z" fill-rule="evenodd" stroke="#808080" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="#fff"/>
+   <text id="196" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" font-size="11.25px" font-style="normal" y="302.81216" x="169.99588" font-family="Arial" fill="#004080">DQ12</text>
+   <text id="197" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" font-size="11.25px" font-style="normal" y="292.81216" x="214.9948" font-family="Arial" fill="#000000">C1</text>
+   <path id="198" stroke-linejoin="round" d="m206.24 306.25h37.499" stroke="#f00" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="none"/>
+   <path id="199" stroke-linejoin="round" d="m239.99 302.5h6.2498v6.25h-6.2498z" fill-rule="evenodd" stroke="#808080" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="#fff"/>
+   <text id="200" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" font-size="11.25px" font-style="normal" y="315.31216" x="169.99588" font-family="Arial" fill="#004080">DQ13</text>
+   <text id="201" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" font-size="11.25px" font-style="normal" y="305.31216" x="214.9948" font-family="Arial" fill="#000000">B2</text>
+   <path id="202" stroke-linejoin="round" d="m206.24 318.75h37.499" stroke="#f00" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="none"/>
+   <path id="203" stroke-linejoin="round" d="m239.99 315h6.2498v6.25h-6.2498z" fill-rule="evenodd" stroke="#808080" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="#fff"/>
+   <text id="204" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" font-size="11.25px" font-style="normal" y="327.81216" x="169.99588" font-family="Arial" fill="#004080">DQ14</text>
+   <text id="205" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" font-size="11.25px" font-style="normal" y="317.81216" x="214.9948" font-family="Arial" fill="#000000">B1</text>
+   <path id="206" stroke-linejoin="round" d="m206.24 331.25h37.499" stroke="#f00" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="none"/>
+   <path id="207" stroke-linejoin="round" d="m239.99 327.5h6.2498v6.25h-6.2498z" fill-rule="evenodd" stroke="#808080" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="#fff"/>
+   <text id="208" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" font-size="11.25px" font-style="normal" y="340.31216" x="169.99588" font-family="Arial" fill="#004080">DQ15</text>
+   <text id="209" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" font-size="11.25px" font-style="normal" y="330.31216" x="214.9948" font-family="Arial" fill="#000000">A2</text>
+   <path id="210" stroke-linejoin="round" d="m93.748 43.75v-37.5" stroke="#f00" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="none"/>
+   <text id="211" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" transform="matrix(0 -1 1 0 -.31431 177.81)" font-style="normal" font-size="11.25px" y="89.062157" x="88.747849" font-family="Arial" fill="#004080">VDD</text>
+   <text id="212" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" transform="matrix(0 -1 1 0 29.686 127.81)" font-style="normal" font-size="11.25px" y="49.06216" x="78.748093" font-family="Arial" fill="#000000">A9</text>
+   <path id="213" stroke-linejoin="round" d="m106.25 43.75v-37.5" stroke="#f00" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="none"/>
+   <text id="214" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" transform="matrix(0 -1 1 0 12.185 190.31)" font-style="normal" font-size="11.25px" y="89.062157" x="101.24755" font-family="Arial" fill="#004080">VDD</text>
+   <text id="215" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" transform="matrix(0 -1 1 0 42.186 140.31)" font-style="normal" font-size="11.25px" y="49.06216" x="91.247787" font-family="Arial" fill="#000000">E7</text>
+   <path id="216" stroke-linejoin="round" d="m118.75 43.75v-37.5" stroke="#f00" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="none"/>
+   <text id="217" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" transform="matrix(0 -1 1 0 24.685 202.81)" font-style="normal" font-size="11.25px" y="89.062157" x="113.74724" font-family="Arial" fill="#004080">VDD</text>
+   <text id="218" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" transform="matrix(0 -1 1 0 54.685 152.81)" font-style="normal" font-size="11.25px" y="49.06216" x="103.74749" font-family="Arial" fill="#000000">J9</text>
+   <path id="219" stroke-linejoin="round" d="m143.75 43.75v-37.5" stroke="#f00" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="none"/>
+   <text id="220" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" transform="matrix(0 -1 1 0 40.934 236.56)" font-style="normal" font-size="11.25px" y="97.812157" x="138.74664" font-family="Arial" fill="#004080">VDDQ</text>
+   <text id="221" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" transform="matrix(0 -1 1 0 79.685 177.81)" font-style="normal" font-size="11.25px" y="49.06216" x="128.74689" font-family="Arial" fill="#000000">A7</text>
+   <path id="222" stroke-linejoin="round" d="m156.25 43.75v-37.5" stroke="#f00" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="none"/>
+   <text id="223" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" transform="matrix(0 -1 1 0 53.434 249.06)" font-style="normal" font-size="11.25px" y="97.812157" x="151.24634" font-family="Arial" fill="#004080">VDDQ</text>
+   <text id="224" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" transform="matrix(0 -1 1 0 92.184 190.31)" font-style="normal" font-size="11.25px" y="49.06216" x="141.24658" font-family="Arial" fill="#000000">B3</text>
+   <path id="225" stroke-linejoin="round" d="m168.75 43.75v-37.5" stroke="#f00" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="none"/>
+   <text id="226" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" transform="matrix(0 -1 1 0 74.684 252.81)" font-style="normal" font-size="11.25px" y="89.062157" x="163.74603" font-family="Arial" fill="#004080">VDD</text>
+   <text id="227" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" transform="matrix(0 -1 1 0 104.68 202.81)" font-style="normal" font-size="11.25px" y="49.06216" x="153.74628" font-family="Arial" fill="#000000">C7</text>
+   <path id="228" stroke-linejoin="round" d="m181.25 43.75v-37.5" stroke="#f00" stroke-linecap="round" stroke-dasharray="none" stroke-width="1.25px" fill="none"/>
+   <text id="229" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" transform="matrix(0 -1 1 0 87.184 265.31)" font-style="normal" font-size="11.25px" y="89.062157" x="176.24573" font-family="Arial" fill="#004080">VDD</text>
+   <text id="230" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" transform="matrix(0 -1 1 0 117.18 215.31)" font-style="normal" font-size="11.25px" y="49.06216" x="166.24597" font-family="Arial" fill="#000000">D3</text>
+ </g>
+</svg>

@@ -1,0 +1,3 @@
+# Svgparts - Using SVG and domain semantics to model electronics symbols.
+
+Electronic Design Automation parts and schematics are just vector drawings with a bunch of domain specific metadata. This project aims to model a schematic symbol using SVG.
