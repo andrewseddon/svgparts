@@ -11,53 +11,67 @@
  </metadata>
   
 
- <!-- Group everything to do with the part-->
- <g class="symbol" transform="translate(0, 3000) scale(1, -1)">
-    
-   <!-- Device information -->
-   <text id="refdes" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" font-size="11.25px" font-style="normal" y="0" x="0" font-family="Arial" fill="#000080">IC11</text>
-   <text id="description" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" font-size="11.25px" font-style="normal" y="0" x="0" font-family="Arial" fill="#000080">ARM JTAG Connector (20 pin)</text>
-   <rect id="partoutline" x="300" y="300" width="1500" height="2600" fill="none" stroke-width="5px" stroke="#00f"/>
+ <!-- Group everything to do with the part (transform gets us into Cartesian coordinates)-->
+  <g class="symbol" transform="translate(0, 3000) scale(1, -1)">
 
+    <!-- Device information -->
+    <text id="refdes" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" font-size="11.25px" font-style="normal" y="0" x="0" font-family="Arial" fill="#000080">IC11</text>
+    <text id="description" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" font-size="11.25px" font-style="normal" y="0" x="0" font-family="Arial" fill="#000080">ARM JTAG Connector (20 pin)</text>
+    <rect id="partoutline" x="300" y="300" width="1500" height="2600" fill="none" stroke-width="5px" stroke="#00f"/>
 
-   <g class="pin">
-     <line x1="300" y1="700" x2="100" y2="700" style="stroke:rgb(99,99,99);stroke-width:2"/>
-     
-     <text class="pinnumber"  x="250" y="-725" visibility="visible" font-size="8em" transform="scale(1,-1)">2</text>
-     <text class="pinseq"     x="300" y="700" visibility="hidden" font-size="8em">2</text>
-     <text class="pinlabel"   x="350" y="-700" visibility="visible" font-size="8em" transform="scale(1,-1)">VDD</text>
-     <text class="pintype"    x="300" y="700" visibility="hidden" font-size="8em">pwr</text>
-   </g>
-   
-   <g class="pin">
-     <line x1="300" y1="900" x2="0" y2="900" style="stroke:rgb(99,99,99);stroke-width:2"/>
+    <!-- Pins -->
+    <g class="pin">
+      <line x1="300" y1="700" x2="0" y2="700" stroke-width="10" stroke="#f00"/>
 
-     <text class="pinnumber"  x="250" y="925" visibility="visible" font-size="8em">4</text>
-     <text class="pinseq"     x="300" y="900" visibility="hidden" font-size="8em">4</text>
-     <text class="pinlabel"   x="350" y="900" visibility="visible" font-size="8em">GND</text>
-     <text class="pintype"    x="300" y="900" visibility="hidden" font-size="8em">pwr</text>   
-   </g>
+      <text class="pinnumber"  x="250" y="-725" text-anchor="end" visibility="visible" font-size="8em" transform="scale(1,-1)">2</text>
+      <text class="pinseq"     x="300" y="700"  visibility="hidden" font-size="8em">2</text>
+      <text class="pinlabel"   x="350" y="-700" text-anchor="start" style="dominant-baseline: central;" visibility="visible" font-size="8em" transform="scale(1,-1)" fill="#004080">VDD</text>
+      <text class="pintype"    x="300" y="700" visibility="hidden" font-size="8em">pwr</text>
+    </g>
 
-   <g class="pin">
-     <line x1="300" y1="1100" x2="0" y2="1100" style="stroke:rgb(99,99,99);stroke-width:2"/>
+    <g class="pin">
+      <line x1="300" y1="900" x2="0" y2="900" stroke-width="10" stroke="#f00"/>
 
-     <text class="pinnumber"  x="250" y="1125" visibility="visible" font-size="8em">6</text>
-     <text class="pinseq"     x="300" y="1100" visibility="hidden" font-size="8em">6</text>
-     <text class="pinlabel"   x="350" y="1100" visibility="visible" font-size="8em">GND</text>
-     <text class="pintype"    x="300" y="1100" visibility="hidden" font-size="8em">pwr</text>
-   </g>
+      <text class="pinnumber"  x="250" y="-925" text-anchor="end" visibility="visible" font-size="8em" transform="scale(1,-1)">4</text>
+      <text class="pinseq"     x="300" y="900" visibility="hidden" font-size="8em">4</text>
+      <text class="pinlabel"   x="350" y="-900" text-anchor="start" style="dominant-baseline: central;" visibility="visible" font-size="8em" transform="scale(1,-1)" fill="#004080">GND</text>
+      <text class="pintype"    x="300" y="900" visibility="hidden" font-size="8em">pwr</text>
+    </g>
 
-   
-   <g class="pin">
-     <line x1="300" y1="1500" x2="0" y2="1500" style="stroke:rgb(99,99,99);stroke-width:2"/>
+    <g class="pin">
+      <line x1="300" y1="1100" x2="0" y2="1100" stroke-width="10" stroke="#f00"/>
 
-     <text class="pinnumber"  x="250" y="-1525" visibility="visible" font-size="8em" transform="scale(1,-1)">10</text>
-     <text class="pinseq"     x="300" y="1500" visibility="hidden" font-size="8em">10</text>
-     <text class="pinlabel"   x="350" y="1500" visibility="visible" font-size="8em">GND</text>
-     <text class="pintype"    x="300" y="1500" visibility="hidden" font-size="8em">pwr</text>
-   </g>
-   
-   
- </g>
-  
+      <text class="pinnumber"  x="250" y="-1125" text-anchor="end" visibility="visible" font-size="8em" transform="scale(1,-1)">6</text>
+      <text class="pinseq"     x="300" y="1100" visibility="hidden" font-size="8em">6</text>
+      <text class="pinlabel"   x="350" y="-1100" text-anchor="start" style="dominant-baseline: central;" visibility="visible" font-size="8em" transform="scale(1,-1)" fill="#004080">GND</text>
+      <text class="pintype"    x="300" y="1100" visibility="hidden" font-size="8em">pwr</text>
+    </g>
+
+    <g class="pin">
+      <line x1="300" y1="1500" x2="0" y2="1500" stroke-width="10" stroke="#f00"/>
+
+      <text class="pinnumber"  x="250" y="-1525" text-anchor="end" visibility="visible" font-size="8em" transform="scale(1,-1)">10</text>
+      <text class="pinseq"     x="300" y="1500" visibility="hidden" font-size="8em">10</text>
+      <text class="pinlabel"   x="350" y="-1500" text-anchor="start" style="dominant-baseline: central;" visibility="visible" font-size="8em" transform="scale(1,-1)" fill="#004080">GND</text>
+      <text class="pintype"    x="300" y="1500" visibility="hidden" font-size="8em">pwr</text>
+    </g>
+
+    <g class="pin">
+      <line x1="1800" y1="700" x2="2100" y2="700" stroke-width="10" stroke="#f00"/>
+
+      <text class="pinnumber"  x="1850" y="-725" visibility="visible" font-size="8em" transform="scale(1,-1)">1</text>
+      <text class="pinseq"     x="1800" y="700" visibility="hidden" font-size="8em">1</text>
+      <text class="pinlabel"   x="1750" y="-700" text-anchor="end" style="dominant-baseline: central;" visibility="visible" font-size="8em" transform="scale(1,-1)" fill="#004080">VTREF</text>
+      <text class="pintype"    x="1800" y="700" visibility="hidden" font-size="8em">io</text>
+    </g>
+
+    <g class="pin">
+      <line x1="1800" y1="2500" x2="2100" y2="2500" stroke-width="10" stroke="#f00"/>
+
+      <text class="pinnumber"  x="1850" y="-2525" visibility="visible" font-size="8em" transform="scale(1,-1)">19</text>
+      <text class="pinseq"     x="1800" y="2500" visibility="hidden" font-size="8em">19</text>
+      <text class="pinlabel"   x="1750" y="-2500" text-anchor="end" style="dominant-baseline: central;" visibility="visible" font-size="8em" transform="scale(1,-1)" fill="#004080">DBGACK</text>
+      <text class="pintype"    x="1800" y="2500" visibility="hidden" font-size="8em">io</text>
+    </g>
+  </g>
 </svg>
