@@ -23,10 +23,10 @@
     <g class="pin">
       <line x1="300" y1="700" x2="0" y2="700" stroke-width="10" stroke="#f00"/>
 
-      <text class="pinnumber"  x="250" y="-725" text-anchor="end" visibility="visible" font-size="8em" transform="scale(1,-1)">2</text>
-      <text class="pinseq"     x="300" y="700"  visibility="hidden" font-size="8em">2</text>
-      <text class="pinlabel"   x="350" y="-700" text-anchor="start" style="dominant-baseline: central;" visibility="visible" font-size="8em" transform="scale(1,-1)" fill="#004080">VDD</text>
-      <text class="pintype"    x="300" y="700" visibility="hidden" font-size="8em">pwr</text>
+      <text class="pinnumber"  x="250" y="-725" transform="scale(1,-1)" text-anchor="end"                                         visibility="visible"  font-size="8em" fill="#000000">2</text>
+      <text class="pinseq"     x="300" y="-700" transform="scale(1,-1)" text-anchor="end"                                         visibility="hidden"   font-size="8em" fill="#004080">2</text>
+      <text class="pinlabel"   x="350" y="-700" transform="scale(1,-1)" text-anchor="start"  style="dominant-baseline: central;"  visibility="visible"  font-size="8em" fill="#004080">VDD</text>
+      <text class="pintype"    x="300" y="-700" transform="scale(1,-1)" text-anchor="middle" style="dominant-baseline: hanging;"  visibility="hidden"   font-size="8em" fill="#004080">pwr</text>
     </g>
 
     <g class="pin">
